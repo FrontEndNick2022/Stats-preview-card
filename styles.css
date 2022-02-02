@@ -169,6 +169,7 @@ main {
 
     .stats-container {
         flex-direction: column;
+        margin: 0 auto;
     }
 
     .stats-container .stats {
