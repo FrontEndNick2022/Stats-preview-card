@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
 
 /* Frontend Styling */
-.attribution {
+/* .attribution {
     font-size: 11px;
     text-align: center;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
-}
+} */
 
 /* CSS Reset START */
 html {
@@ -75,7 +75,6 @@ main {
     display: flex;
     flex-direction: row;
     border-radius: 0.6rem;
-    margin-bottom: 5rem;
 }
 
 .card-text {
@@ -180,10 +179,10 @@ main {
     }
 
     /* To remove the Frontend Mentor links as it throws the card out of postion */
-    .card {
+    /* .card {
         margin-bottom: 0rem;
     }
     .attribution {
         display: none;
-    }
+    } */
 }
