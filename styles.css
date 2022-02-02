@@ -132,7 +132,7 @@ main {
     opacity: 0.5;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 400px) {
     .card {
         flex-direction: column;
         width: 90%;
